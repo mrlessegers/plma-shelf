@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: PLMA Shelf
+title: Philippine Labor Movement Archive Shelf
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a catalog of Philippine Labor Movement Archives' bibliographic collection
+tagline: a selection of digitized materials from the collections of the Philippine Labor Movement Archive
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "PLMA Shelf is a collection of bibliographic materials"
+description: "a selection of digitized materials from the collections of the Philippine Labor Movement Archive"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Philippine Labor Movement Archive
 
