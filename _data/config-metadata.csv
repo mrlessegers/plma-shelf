@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
 identifier,Source Identifier,,
+custodian,Custodian,
 title,Title,
 creator,Creator,
 publisher,Publisher,
@@ -7,7 +8,7 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
-source,Source
+source,Source Collection,
 language,Language,
 type,Type,
 format,Format,
